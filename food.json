@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Plain Burger",
+        "price": 40,
+        "image": "1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cheese burger",
+        "price": 45,
+        "image": "2.jpg"
+    }, {
+        "id": 3,
+        "name": "Burger Overload",
+        "price": 55,
+        "image": "3.jpg"
+    }, {
+        "id": 4,
+        "name": "Cheesee Sandwich",
+        "price": 40,
+        "image": "4.jpg"
+    }, {
+        "id": 5,
+        "name": "Ice Tea",
+        "price": 20,
+        "image": "5.jpg"
+    }, {
+        "id": 6,
+        "name": "Orange Juice",
+        "price": 20,
+        "image": "6.jpg"
+    }, {
+        "id": 7,
+        "name": "Melon Juice",
+        "price": 20,
+        "image": "7.jpg"
+    }, {
+        "id": 8,
+        "name": "French Fries",
+        "price": 15,
+        "image": "8.jpg"
+    }, {
+        "id": 9,
+        "name": "Cheese Sticks",
+        "price": 10,
+        "image": "9.jpg"
+    }
+]
